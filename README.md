@@ -2,4 +2,4 @@
 
 This is an example repo with some stuff in it. It is not very interesting.
 
-A change.
+Here are some changes that are introduced by another Github user.
